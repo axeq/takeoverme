@@ -2,4 +2,3 @@ aiohttp
 dnspython
 asyncio
 requests
-json
